@@ -104,21 +104,21 @@ main {
   margin: 4px;
   width: 42px;
   height: 42px;
-  background: url(/img/tviter.svg) no-repeat center center;
+  background: url(img/tviter.svg) no-repeat center center;
   background-color: #4cc6e4;
 }
 .img__twitter:hover .twitter__faceboock {
   margin: 4px;
   width: 42px;
   height: 42px;
-  background: url(/img/faceboock.svg) no-repeat center center;
+  background: url(img/faceboock.svg) no-repeat center center;
   background-color: #4cc6e4;
 }
 .img__twitter:hover .twitter__googl {
   margin: 4px;
   width: 42px;
   height: 42px;
-  background: url(/img/google.svg) no-repeat center center;
+  background: url(img/google.svg) no-repeat center center;
   background-color: #4cc6e4;
 }
 .twitter__twitter:hover {
